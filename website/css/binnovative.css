@@ -1,0 +1,85 @@
+body {
+	margin: 0;
+
+}
+
+.navbar-static-top {
+	margin: 0;
+	box-shadow: none;
+}
+
+.navbar-header {
+	min-height: 105px;
+}
+
+.container-narrow {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#application {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.header-image {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('../img/header_background.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.headline h1,
+.headline h2 {
+	background: none;
+}
+.headline h2 {
+	color: rgb(230,0,65);
+}
+.headline h3 {
+	color: rgb(128,128,128);
+}
+
+#judges p {
+	margin-left: 250px;
+}
+
+.judge-pic {
+	border-radius: 50%;
+	float: left;
+}
+
+.name {
+	color: #444444;
+	font-weight: bold;
+}
+
+#koji {
+	border-radius: 2%;
+}
+
+#koji p {
+	margin-left: 400px;
+}
+
+#koji-pic {
+	border-radius: 100%;
+	float: left;
+}
+
+.sponsor-logo {
+	margin: 0 60px;
+}
+
+#apply-now {
+	float: right;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
